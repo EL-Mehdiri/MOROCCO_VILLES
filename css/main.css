@@ -75,10 +75,10 @@ nav li:hover {
 }
 
 section {
-    margin: 700px auto 100px;
+    margin: 900px auto 200px;
     display: flex;
     justify-content: space-around;
-    height: 58vh;
+    height: 48vh;
     color: black;
     box-shadow: 0 1px 50px #414040;
     overflow: hidden;
@@ -161,7 +161,7 @@ section div a:hover {
 
 
 footer {
-    background-color: #6CA0DC;
+    background: linear-gradient(#b9d2f7, #6CA0DC);
     width: 99vw;
     height: 150px;
     padding-left: 200px;
